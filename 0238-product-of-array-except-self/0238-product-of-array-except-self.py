@@ -11,6 +11,7 @@ class Solution:
         right.reverse()
         return [left[i] * right[i] for i in range(len(nums))] """
 
+        # O(n) time and O(1) space
         right = [1]
         for i in range(len(nums)-2, -1, -1):
             right.append(nums[i + 1] * right[len(nums) - i - 2])
