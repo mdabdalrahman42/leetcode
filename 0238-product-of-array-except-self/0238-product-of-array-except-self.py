@@ -21,3 +21,5 @@ class Solution:
             right[i] = right[i] * left
             left *= nums[i]
         return right
+
+        # Can also be done by first calc left array and maintaining right product in a variable
