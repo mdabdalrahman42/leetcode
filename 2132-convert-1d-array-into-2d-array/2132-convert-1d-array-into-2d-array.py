@@ -6,4 +6,4 @@ class Solution:
             output = []
             for i in range(m):
                 output.append([original[j] for j in range(n * i, n + n * i)])
-            return output
+            return output # Time and Space is O(n)
