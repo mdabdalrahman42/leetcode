@@ -1,23 +1,13 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        """
-        nums = [1,3,4,2,2]
-        indi = [0,1,2,3,4]
-
-        Linked List is 1 (nums[0]) -> 3 (nums[1]) -> 2 (nums[3]) -> 4 (nums[2]) -> cycle to 2 again and so on...
-        (Don't think of trying with indices as it is confusing)
-        For the above list, initially slow pointer moves 1 step and fast moves 2 steps starting from first element
-        """
-        slow = nums[0]
-        fast = nums[0]
+        slow = fast = nums[0] # or 0
         slow = nums[slow]
         fast = nums[nums[fast]]
-        while slow != fast:
+        while slow != fast: # slow == fast means there is a cycle (i.e., some number repeated)
             slow = nums[slow]
             fast = nums[nums[fast]]
-        # According to floyd, if element e is starting point of a cycle, distance from current slow to this e is same as distance from fast starting from 1st element of LL and moving 1 step ahed to this e i.e., fast and slow intersect at e at certain point of time
-        fast = nums[0]
-        while slow != fast:
+        fast = nums[0] # or 0
+        while slow != fast: # According to floyd, distance from current slow and new fast (moving at speed 1) to number that led to cycle is equal and meet exactly at that number again
             slow = nums[slow]
             fast = nums[fast]
         return slow
