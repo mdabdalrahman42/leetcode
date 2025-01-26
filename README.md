@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
