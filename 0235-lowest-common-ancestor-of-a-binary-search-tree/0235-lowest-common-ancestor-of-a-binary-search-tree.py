@@ -19,6 +19,6 @@ class Solution:
         elif p.val > node.val and q.val > node.val:
             return self.funct(node.right, p, q)
         elif p == node:
-            return p
+            return node
         elif q == node:
-            return q
+            return node
