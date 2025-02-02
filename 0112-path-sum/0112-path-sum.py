@@ -14,16 +14,15 @@ class Solution:
         if node.left == None and node.right == None:
             if curr_sum + node.val == target:
                 return True
-
+            else:
+                return False
         if node.left != None:
             if self.dfs(node.left, target, curr_sum + node.val):
                 return True
             elif node.right != None:
                 if self.dfs(node.right, target, curr_sum + node.val):
                     return True
-
         if node.right != None:
             if self.dfs(node.right, target, curr_sum + node.val):
                 return True
-        
         return False
