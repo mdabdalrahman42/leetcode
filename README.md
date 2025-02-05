@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mdabdalrahman42/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
@@ -33,6 +34,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mdabdalrahman42/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -114,5 +116,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mdabdalrahman42/leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
