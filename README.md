@@ -8,6 +8,7 @@
 | [0078-subsets](https://github.com/mdabdalrahman42/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mdabdalrahman42/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -121,4 +123,8 @@
 | [0078-subsets](https://github.com/mdabdalrahman42/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
