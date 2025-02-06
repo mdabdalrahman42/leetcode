@@ -4,7 +4,7 @@ class Solution:
         output = 0
         for i in input:
             if i - 1 not in input:
-                l = 0
+                l = 1
                 while i + l in input:
                     l += 1
                 output = max(output, l)
