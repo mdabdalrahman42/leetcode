@@ -1,9 +1,10 @@
 class Solution:
     def construct2DArray(self, original: List[int], m: int, n: int) -> List[List[int]]:
-        if len(original) != m * n:
-            return []
-        else:
-            output = []
+        output = []
+        if m * n == len(original):
             for i in range(m):
-                output.append([original[j] for j in range(n * i, n + n * i)])
-            return output # Time and Space is O(n)
+                row = []
+                for j in range(i*n , (i + 1) * n):
+                    row.append(original[j])
+                output.append(row)
+        return output
