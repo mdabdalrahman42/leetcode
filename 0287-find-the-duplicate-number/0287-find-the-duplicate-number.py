@@ -7,6 +7,7 @@ class Solution:
             else:
                 nums[abs(nums[i]) - 1] = - nums[abs(nums[i]) - 1]
         """
+        """
         slow = fast = 0
         slow = nums[slow]
         fast = nums[nums[fast]]
@@ -18,3 +19,13 @@ class Solution:
             slow = nums[slow]
             fast = nums[fast]
         return slow
+        """
+        l, h = 1, len(nums) - 1
+        while l <= h:
+            mid = l + (h - l) // 2
+            count = sum([1 for n in nums if n <= mid])
+            if count > mid:
+                h = mid - 1
+            else:
+                l = mid + 1
+        return l
