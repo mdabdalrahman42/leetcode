@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/mdabdalrahman42/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mdabdalrahman42/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0090-subsets-ii) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
@@ -69,6 +71,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/mdabdalrahman42/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mdabdalrahman42/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
