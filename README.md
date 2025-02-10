@@ -81,6 +81,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
@@ -90,6 +91,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
@@ -101,6 +103,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/mdabdalrahman42/leetcode/tree/master/0207-course-schedule) |
@@ -109,6 +112,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
