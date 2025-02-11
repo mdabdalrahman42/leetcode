@@ -10,9 +10,7 @@ class Solution:
         if not k:
             return [target.val]
         dic = {}
-        queue = deque([root])
-        while queue:
-            node = queue.popleft()
+        def dfs1(node):
             if node.left:
                 if node in dic:
                     dic[node].append(node.left)
@@ -22,7 +20,7 @@ class Solution:
                     dic[node.left].append(node)
                 else:
                     dic[node.left] = [node]
-                queue.append(node.left)
+                dfs1(node.left)
             if node.right:
                 if node in dic:
                     dic[node].append(node.right)
@@ -32,10 +30,11 @@ class Solution:
                     dic[node.right].append(node)
                 else:
                     dic[node.right] = [node]
-                queue.append(node.right)
+                dfs1(node.right)
             if not node.left and not node.right:
                 if node not in dic:
                     dic[node] = []
+        dfs1(root)
         output = []
         visited = set()
         visited.add(target)
