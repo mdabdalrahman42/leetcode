@@ -92,6 +92,7 @@
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/mdabdalrahman42/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -111,6 +112,7 @@
 | [0210-course-schedule-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/mdabdalrahman42/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -142,6 +144,7 @@
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/mdabdalrahman42/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0572-subtree-of-another-tree) |
