@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdabdalrahman42/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0136-single-number) |
+| [0200-number-of-islands](https://github.com/mdabdalrahman42/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mdabdalrahman42/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
@@ -75,6 +76,7 @@
 | [0048-rotate-image](https://github.com/mdabdalrahman42/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/mdabdalrahman42/leetcode/tree/master/0200-number-of-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mdabdalrahman42/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -110,6 +112,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
+| [0200-number-of-islands](https://github.com/mdabdalrahman42/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mdabdalrahman42/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0226-invert-binary-tree) |
@@ -129,6 +132,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/mdabdalrahman42/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mdabdalrahman42/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0226-invert-binary-tree) |
@@ -181,6 +185,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mdabdalrahman42/leetcode/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
