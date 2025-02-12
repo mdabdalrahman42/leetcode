@@ -9,7 +9,7 @@ class Solution:
             queue = deque([(r, c)])
             visited.add((r, c))
             while queue:
-                r, c = queue.popleft()
+                r, c = queue.pop()
                 directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
                 for row_new, col_new in directions:
                      row_new += r
