@@ -17,7 +17,7 @@ class Solution:
             dic[course] = []
             visited.remove(course)
             return True
-        
+                
         for course in range(numCourses):
             if not dfs(course):
                 return False
