@@ -13,7 +13,6 @@ class Solution:
             if not node.left and not node.right:
                 if curr_sum == targetSum:
                     paths.append(path)
-                    return
             if node.left:
                 dfs(node.left, curr_sum, path)
             if node.right:
