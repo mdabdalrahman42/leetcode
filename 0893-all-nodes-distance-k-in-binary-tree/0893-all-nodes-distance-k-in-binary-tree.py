@@ -7,46 +7,34 @@
 
 class Solution:
     def distanceK(self, root: TreeNode, target: TreeNode, k: int) -> List[int]:
-        if not k:
-            return [target.val]
         dic = {}
         queue = deque([root])
         while queue:
             node = queue.popleft()
+            if node not in dic:
+                dic[node] = []
             if node.left:
-                if node in dic:
-                    dic[node].append(node.left)
-                else:
-                    dic[node] = [node.left]
-                if node.left in dic:
-                    dic[node.left].append(node)
-                else:
-                    dic[node.left] = [node]
+                if node.left not in dic:
+                    dic[node.left] = []
+                dic[node].append(node.left)
+                dic[node.left].append(node)
                 queue.append(node.left)
             if node.right:
-                if node in dic:
-                    dic[node].append(node.right)
-                else:
-                    dic[node] = [node.right]
-                if node.right in dic:
-                    dic[node.right].append(node)
-                else:
-                    dic[node.right] = [node]
+                if node.right not in dic:
+                    dic[node.right] = []
+                dic[node].append(node.right)
+                dic[node.right].append(node)
                 queue.append(node.right)
-            if not node.left and not node.right:
-                if node not in dic:
-                    dic[node] = []
+        visited = set([target])
         output = []
-        visited = set()
-        visited.add(target)
-        def dfs(node, distance):
+        queue = deque([(target, 0)])
+        while queue:
+            node, distance = queue.popleft()
             if distance == k:
                 output.append(node.val)
             else:
-                for v in dic[node]:
-                    if v not in visited:
-                        visited.add(v)
-                        dfs(v, distance + 1)
-        dfs(target, 0)
+                for adj_node in dic[node]:
+                    if adj_node not in visited:
+                        queue.append((adj_node, distance + 1))
+                        visited.add(adj_node)
         return output
-            
