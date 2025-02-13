@@ -1,11 +1,10 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         dic = {i:[] for i in range(numCourses)}
-        for v1, v2 in prerequisites:
-            dic[v1].append(v2)
-        visited = set()
         output = []
-
+        for crs, prereq in prerequisites:
+            dic[crs].append(prereq)
+        visited = set()
         def dfs(course):
             if course in output:
                 return True
@@ -18,12 +17,11 @@ class Solution:
             for prereq in dic[course]:
                 if not dfs(prereq):
                     return False
+            visited.remove(course)
             dic[course] = []
             output.append(course)
-            visited.remove(course)
             return True
-                
-        for course in range(numCourses):
-            if not dfs(course):
+        for i in dic:
+            if not dfs(i):
                 return []
         return output
