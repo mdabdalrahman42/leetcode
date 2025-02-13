@@ -1,10 +1,9 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         dic = {i:[] for i in range(numCourses)}
-        for v1, v2 in prerequisites:
-            dic[v1].append(v2)
+        for crs, prereq in prerequisites:
+            dic[crs].append(prereq)
         visited = set()
-
         def dfs(course):
             if dic[course] == []:
                 return True
@@ -14,11 +13,10 @@ class Solution:
             for prereq in dic[course]:
                 if not dfs(prereq):
                     return False
-            dic[course] = []
             visited.remove(course)
+            dic[course] = []
             return True
-                
-        for course in range(numCourses):
-            if not dfs(course):
+        for i in dic:
+            if not dfs(i):
                 return False
         return True
