@@ -6,17 +6,16 @@
 #         self.right = right
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
-        dic = {0: 1}
-        count = 0
+        dic = {0:1}
+        paths = 0
         def dfs(node, curr_sum):
-            nonlocal count
+            nonlocal paths
             curr_sum += node.val
             if curr_sum - targetSum in dic:
-                count += dic[curr_sum - targetSum]
+                paths += dic[curr_sum - targetSum]
             if curr_sum not in dic:
-                dic[curr_sum] = 1
-            else:
-                dic[curr_sum] += 1
+                dic[curr_sum] = 0
+            dic[curr_sum] += 1
             if node.left:
                 dfs(node.left, curr_sum)
             if node.right:
@@ -27,5 +26,4 @@ class Solution:
                 dic[curr_sum] -= 1
         if root:
             dfs(root, 0)
-        return count
-            
+        return paths
