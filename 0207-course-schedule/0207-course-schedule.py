@@ -4,6 +4,7 @@ class Solution:
         for crs, prereq in prerequisites:
             dic[crs].append(prereq)
         visited = set()
+        
         def dfs(course):
             if dic[course] == []:
                 return True
@@ -16,7 +17,8 @@ class Solution:
             visited.remove(course)
             dic[course] = []
             return True
-        for i in dic:
-            if not dfs(i):
+
+        for crs in range(numCourses):
+            if not dfs(crs):
                 return False
         return True
