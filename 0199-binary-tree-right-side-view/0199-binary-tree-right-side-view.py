@@ -6,17 +6,17 @@
 #         self.right = right
 class Solution:
     def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
-        output = []
         queue = deque([root])
         right = None
+        output = []
         while queue:
             right = None
             for _ in range(len(queue)):
                 node = queue.popleft()
                 if node:
-                    right = node
                     queue.append(node.left)
                     queue.append(node.right)
+                    right = node
             if right:
                 output.append(right.val)
         return output
