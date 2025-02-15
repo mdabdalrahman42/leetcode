@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mdabdalrahman42/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdabdalrahman42/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -77,6 +78,7 @@
 | [0048-rotate-image](https://github.com/mdabdalrahman42/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mdabdalrahman42/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mdabdalrahman42/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mdabdalrahman42/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -112,6 +114,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -197,6 +200,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mdabdalrahman42/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
 ## Union Find
@@ -211,6 +215,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
