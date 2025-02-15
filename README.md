@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/mdabdalrahman42/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mdabdalrahman42/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -199,6 +200,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mdabdalrahman42/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mdabdalrahman42/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0090-subsets-ii) |
