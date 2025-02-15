@@ -2,28 +2,26 @@ class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         rows, cols = len(board), len(board[0])
 
-        def bfs(r, c, i):
-            queue = deque([(r, c, i, {(r, c)})])
-            directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
-            
-            while queue:
-                r, c, i, visited = queue.popleft()
-                
-                if i == len(word):  # Word found
-                    return True
-
-                for dr, dc in directions:
-                    nr, nc = r + dr, c + dc  # Compute new position
-                    
-                    if (nr, nc) not in visited and 0 <= nr < rows and 0 <= nc < cols and board[nr][nc] == word[i]:
-                        queue.append((nr, nc, i + 1, visited | {(nr, nc)}))
-            
+        visited = set()
+        def dfs(r, c, i):
+            if i == len(word):
+                return True
+            directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
+            for new_row, new_col in directions:
+                new_row += r
+                new_col += c
+                if new_row in range(rows) and new_col in range(cols) and board[new_row][new_col] == word[i] and (new_row, new_col) not in visited:
+                    visited.add((new_row, new_col))
+                    if dfs(new_row, new_col, i + 1):
+                        return True
+                    visited.remove((new_row, new_col))
             return False
 
         for r in range(rows):
             for c in range(cols):
                 if board[r][c] == word[0]:
-                    if bfs(r, c, 1):
+                    visited.add((r, c))
+                    if dfs(r, c, 1):
                         return True
-
+                    visited.remove((r, c))
         return False
