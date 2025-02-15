@@ -1,7 +1,6 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
         rows, cols = len(board), len(board[0])
-
         visited = set()
         def dfs(r, c, i):
             if i == len(word):
@@ -16,12 +15,11 @@ class Solution:
                         return True
                     visited.remove((new_row, new_col))
             return False
-
         for r in range(rows):
             for c in range(cols):
                 if board[r][c] == word[0]:
-                    visited.add((r, c))
+                    visited.add((r,c))
                     if dfs(r, c, 1):
                         return True
-                    visited.remove((r, c))
+                    visited.remove((r,c))
         return False
