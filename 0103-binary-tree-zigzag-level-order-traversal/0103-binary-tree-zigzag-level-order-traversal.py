@@ -9,8 +9,8 @@ class Solution:
         output = []
         if not root:
             return output
-        even = True
         queue = deque([root])
+        even = True
         while queue:
             level = []
             for _ in range(len(queue)):
@@ -22,8 +22,6 @@ class Solution:
                     queue.append(node.right)
             if not even:
                 level.reverse()
-                output.append(level)
-            else:
-                output.append(level)
+            output.append(level)
             even = not even
         return output
