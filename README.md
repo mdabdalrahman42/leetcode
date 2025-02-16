@@ -205,6 +205,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mdabdalrahman42/leetcode/tree/master/0046-permutations) |
@@ -223,10 +224,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdabdalrahman42/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String Matching
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0572-subtree-of-another-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
