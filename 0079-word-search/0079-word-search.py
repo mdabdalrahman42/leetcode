@@ -10,10 +10,10 @@ class Solution:
                 r, c, i, visited = queue.popleft()
                 if i == len(word):
                     return True
-                for nr, nc in directions:
-                    new_row = r + nr
-                    new_col = c + nc
-                    if (new_row, new_col) not in visited and 0 <= new_row < rows and 0 <= new_col < cols and board[new_row][new_col] == word[i]:
+                for new_row, new_col in directions:
+                    new_row += r
+                    new_col += c
+                    if (new_row, new_col) not in visited and new_row >= 0 and new_row < rows and new_col >= 0 and new_col < cols and board[new_row][new_col] == word[i]:
                         queue.append((new_row, new_col, i + 1, visited | {(new_row, new_col)}))
             return False
 
