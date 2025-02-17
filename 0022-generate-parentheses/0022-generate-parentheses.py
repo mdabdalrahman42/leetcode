@@ -16,4 +16,3 @@ class Solution:
                 stack.pop()
         dfs(0, 0)
         return output
-            
