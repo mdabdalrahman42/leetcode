@@ -1,20 +1,20 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        result = []
-        perm = []
         dic = {i:0 for i in nums}
         for i in nums:
             dic[i] += 1
+        output = []
+        perm = []
         def dfs():
             if len(perm) == len(nums):
-                result.append(perm[:])
+                output.append(perm[:])
                 return
-            for i in dic:
-                if dic[i] > 0:
-                    perm.append(i)
-                    dic[i] -= 1
+            for n in dic:
+                if dic[n] > 0:
+                    dic[n] -= 1
+                    perm.append(n)
                     dfs()
-                    dic[i] += 1
                     perm.pop()
+                    dic[n] += 1
         dfs()
-        return result
+        return output
