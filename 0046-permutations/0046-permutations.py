@@ -8,6 +8,6 @@ class Solution:
             perms = self.permute(nums)
             for perm in perms:
                 perm.append(n)
-            output.extend(perms)
+                output.append(perm)
             nums.append(n)
         return output
