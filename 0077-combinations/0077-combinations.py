@@ -1,13 +1,14 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
-        res = []
-        def dfs(start, comb):
+        output = []
+        comb = []
+        def dfs(i):
             if len(comb) == k:
-                res.append(comb[:])
+                output.append(comb[:])
                 return
-            for i in range(start, n + 1):
-                comb.append(i)
-                dfs(i + 1, comb)
+            for j in range(i, n + 1):
+                comb.append(j)
+                dfs(j + 1)
                 comb.pop()
-        dfs(1, [])
-        return res
+        dfs(1)
+        return output
