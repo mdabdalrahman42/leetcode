@@ -1,8 +1,8 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
-        res = []
-        pal = []
-        def ispal(i, j):
+        output = []
+        part = []
+        def ispali(i, j):
             l, r = i, j
             while l < r:
                 if not s[l] == s[r]:
@@ -12,12 +12,12 @@ class Solution:
             return True
         def dfs(i):
             if i >= len(s):
-                res.append(pal.copy())
+                output.append(part[:])
                 return
             for j in range(i, len(s)):
-                if ispal(i, j):
-                    pal.append(s[i:j + 1])
+                if ispali(i, j):
+                    part.append(s[i: j + 1])
                     dfs(j + 1)
-                    pal.pop()
+                    part.pop()
         dfs(0)
-        return res
+        return output
