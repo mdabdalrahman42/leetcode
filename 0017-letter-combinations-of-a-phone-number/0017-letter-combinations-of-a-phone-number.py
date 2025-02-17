@@ -12,7 +12,7 @@ class Solution:
         }
         output = []
         def dfs(i, comb):
-            if len(comb) == len(digits) or i == len(digits):
+            if i == len(digits):
                 output.append(comb)
                 return
             for j in letters[digits[i]]:
