@@ -6,9 +6,11 @@ class Solution:
             if len(comb) == k:
                 output.append(comb[:])
                 return
-            for j in range(i, n + 1):
-                comb.append(j)
-                dfs(j + 1)
-                comb.pop()
+            if i > n:
+                return
+            comb.append(i)
+            dfs(i + 1)
+            comb.pop()
+            dfs(i + 1)
         dfs(1)
         return output
