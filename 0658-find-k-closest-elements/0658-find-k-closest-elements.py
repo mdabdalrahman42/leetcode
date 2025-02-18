@@ -1,5 +1,9 @@
 class Solution:
     def findClosestElements(self, arr: List[int], k: int, x: int) -> List[int]:
-        abs_sorted = sorted([(abs(x - i), i) for i in arr])
-        k_nearest = abs_sorted[:k]
-        return sorted([i[1] for i in k_nearest])
+        l, r = 0, len(arr) - 1
+        while r - l >= k:
+            if abs(x - arr[l]) <= abs(arr[r] - x):
+                r -= 1
+            else:
+                l += 1
+        return arr[l:r + 1]
