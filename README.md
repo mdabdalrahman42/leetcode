@@ -47,6 +47,7 @@
 | ------- |
 | [0283-move-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/mdabdalrahman42/leetcode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -261,6 +262,7 @@
 | [0022-generate-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdabdalrahman42/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mdabdalrahman42/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [0022-generate-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/mdabdalrahman42/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0874-backspace-string-compare](https://github.com/mdabdalrahman42/leetcode/tree/master/0874-backspace-string-compare) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
