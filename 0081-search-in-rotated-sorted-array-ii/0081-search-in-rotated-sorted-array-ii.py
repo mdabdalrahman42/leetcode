@@ -3,19 +3,19 @@ class Solution:
         l, r = 0, len(nums) - 1
         while l <= r:
             mid = l + (r - l) // 2
-            if nums[mid] == target:
+            if target == nums[mid]:
                 return True
-            if nums[l] < nums[mid]:
-                if target > nums[mid] or target < nums[l]:
+            elif nums[mid] == nums[l]:
+                l += 1
+            elif nums[mid] == nums[r]:
+                r -= 1
+            elif nums[l] < nums[mid]:
+                if target < nums[l] or target > nums[mid]:
                     l = mid + 1
                 else:
                     r = mid - 1
-            elif nums[l] == nums[mid]:
-                l += 1
-            elif nums[r] == nums[mid]:
-                r -= 1
             else:
-                if target < nums[mid] or target > nums[r]:
+                if target > nums[r] or target < nums[mid]:
                     r = mid - 1
                 else:
                     l = mid + 1
