@@ -25,6 +25,7 @@
 | [0136-single-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdabdalrahman42/leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdabdalrahman42/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/mdabdalrahman42/leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/mdabdalrahman42/leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
@@ -45,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdabdalrahman42/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
@@ -63,6 +65,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mdabdalrahman42/leetcode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdabdalrahman42/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0287-find-the-duplicate-number) |
