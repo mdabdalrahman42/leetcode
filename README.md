@@ -39,6 +39,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mdabdalrahman42/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
