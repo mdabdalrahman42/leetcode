@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mdabdalrahman42/leetcode/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0040-combination-sum-ii) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mdabdalrahman42/leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdabdalrahman42/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/mdabdalrahman42/leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0047-permutations-ii) |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
