@@ -14,7 +14,7 @@ class Solution:
             length += 1
         last_node = curr
         k = k % length
-        if k == length or k == 0:
+        if k == 0:
             return head
         curr = head
         for _ in range(length - k - 1):
