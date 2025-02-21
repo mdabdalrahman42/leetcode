@@ -8,8 +8,7 @@ class Solution:
         if not head:
             return None
         odd = head
-        even = head.next
-        even_head = even
+        even = even_head = odd.next
         while even and even.next:
             odd.next = odd.next.next
             odd = odd.next
