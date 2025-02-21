@@ -6,9 +6,9 @@
 class Solution:
     def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
         dummy = ListNode(0, head)
-        left_prev, curr = dummy, head
+        before_left, curr = dummy, head
         for _ in range(left - 1):
-            left_prev = curr
+            before_left = curr
             curr = curr.next
         prev = None
         for _ in range(right - left + 1):
@@ -16,6 +16,6 @@ class Solution:
             curr.next = prev
             prev = curr
             curr = temp
-        left_prev.next.next = curr
-        left_prev.next = prev
+        before_left.next.next = curr
+        before_left.next = prev
         return dummy.next
