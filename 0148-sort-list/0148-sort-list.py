@@ -6,29 +6,29 @@
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
-        def getMerge(left, right):
-            dummy = ListNode()
-            curr = dummy
-            while left and right:
-                if left.val <= right.val:
-                    curr.next = left
-                    left = left.next
-                else:
-                    curr.next = right
-                    right = right.next
-                curr = curr.next
-            if left:
-                curr.next = left
-            if right:
-                curr.next = right
-            return dummy.next
-
-        def getMid(l):
-            slow, fast = l, l.next
+        def getMid(head):
+            slow, fast = head, head.next
             while fast and fast.next:
                 slow = slow.next
                 fast = fast.next.next
             return slow
+
+        def getMerge(left, right):
+            dummy = ListNode(0, None)
+            tail = dummy
+            while left and right:
+                if left.val <= right.val:
+                    tail.next = left
+                    left = left.next
+                else:
+                    tail.next = right
+                    right = right.next
+                tail = tail.next
+            if left:
+                tail.next = left
+            if right:
+                tail.next = right
+            return dummy.next
 
         if not head or not head.next:
             return head
