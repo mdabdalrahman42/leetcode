@@ -43,6 +43,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/mdabdalrahman42/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/mdabdalrahman42/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/mdabdalrahman42/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0792-binary-search) |
@@ -320,6 +321,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mdabdalrahman42/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/mdabdalrahman42/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
