@@ -71,6 +71,7 @@
 | [0283-move-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/mdabdalrahman42/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/mdabdalrahman42/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -122,6 +123,7 @@
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0567-permutation-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/mdabdalrahman42/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -310,6 +312,7 @@
 | [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/mdabdalrahman42/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0874-backspace-string-compare](https://github.com/mdabdalrahman42/leetcode/tree/master/0874-backspace-string-compare) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -327,6 +330,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/mdabdalrahman42/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/mdabdalrahman42/leetcode/tree/master/0713-subarray-product-less-than-k) |
