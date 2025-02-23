@@ -15,5 +15,5 @@ class Solution:
                     count.pop(fruits[l])
                 total -= 1
                 l += 1
-            max_fruits = max(max_fruits, total)
+            max_fruits = max(max_fruits, r - l + 1)
         return max_fruits
