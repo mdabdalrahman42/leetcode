@@ -2,13 +2,15 @@ class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
         l = 0
         count = {}
-        max_count = 0
-        max_len = 0
+        max_sub = 0
+        freq = 0
         for r in range(len(s)):
-            count[s[r]] = 1 + count.get(s[r], 0)
-            max_count = max(max_count, count[s[r]])
-            while (r - l + 1) - max_count > k:
+            if s[r] not in count:
+                count[s[r]] = 0
+            count[s[r]] += 1
+            freq = max(freq, count[s[r]])
+            while (r - l + 1) - max(count.values()) > k:
                 count[s[l]] -= 1
                 l += 1
-            max_len = max(max_len, r - l + 1)
-        return max_len
+            max_sub = max(max_sub, r - l + 1)
+        return max_sub
