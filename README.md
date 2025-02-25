@@ -54,6 +54,7 @@
 | [0792-binary-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/mdabdalrahman42/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/mdabdalrahman42/leetcode/tree/master/1028-interval-list-intersections) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mdabdalrahman42/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -149,6 +150,7 @@
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -156,6 +158,7 @@
 | [0002-add-two-numbers](https://github.com/mdabdalrahman42/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mdabdalrahman42/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
+| [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -338,6 +341,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdabdalrahman42/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/mdabdalrahman42/leetcode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -356,6 +360,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
 | ------- |
@@ -407,4 +412,12 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
