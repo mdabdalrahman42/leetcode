@@ -5,11 +5,10 @@ class Solution:
             if i not in count:
                 count[i] = 0
             count[i] += 1
-        bucket = [[] for _ in range(len(s))]
-        for i in count:
-            bucket[count[i] - 1].append(i)
+        heap = [[-count[i], i] for i in count]
+        heapq.heapify(heap)
         output = ""
-        for i in range(len(s) - 1, -1, -1):
-            for j in range(len(bucket[i])):
-                output += bucket[i][j] * (i + 1)
+        for _ in range(len(count)):
+            cnt, char = heapq.heappop(heap)
+            output += char * (- cnt)
         return output
