@@ -11,11 +11,11 @@ class Solution:
         queue = deque([])
         while heap or queue:
             time += 1
-            if heap:
-                cnt = heapq.heappop(heap) + 1
-                if cnt:
-                    queue.append([cnt, time + n])
             if queue and queue[0][1] == time:
                 heapq.heappush(heap, queue[0][0])
                 queue.popleft()
+            if heap:
+                cnt = heapq.heappop(heap) + 1
+                if cnt:
+                    queue.append([cnt, time + n + 1])
         return time
