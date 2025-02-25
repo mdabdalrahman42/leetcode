@@ -41,6 +41,7 @@
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mdabdalrahman42/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mdabdalrahman42/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -351,6 +352,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/mdabdalrahman42/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
