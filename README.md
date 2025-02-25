@@ -46,6 +46,7 @@
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/mdabdalrahman42/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/mdabdalrahman42/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -128,6 +129,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/mdabdalrahman42/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -144,6 +146,7 @@
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
@@ -349,6 +352,7 @@
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 ## Linked List
 |  |
@@ -388,6 +392,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdabdalrahman42/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 ## Merge Sort
 |  |
 | ------- |
@@ -396,4 +401,8 @@
 |  |
 | ------- |
 | [1028-interval-list-intersections](https://github.com/mdabdalrahman42/leetcode/tree/master/1028-interval-list-intersections) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
