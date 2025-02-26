@@ -49,6 +49,7 @@
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdabdalrahman42/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/mdabdalrahman42/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -156,6 +157,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/mdabdalrahman42/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdabdalrahman42/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
@@ -416,6 +418,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdabdalrahman42/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdabdalrahman42/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 ## Merge Sort
