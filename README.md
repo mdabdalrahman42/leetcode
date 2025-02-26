@@ -16,6 +16,7 @@
 | [0047-permutations-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mdabdalrahman42/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/mdabdalrahman42/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mdabdalrahman42/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/mdabdalrahman42/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -324,6 +325,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/mdabdalrahman42/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdabdalrahman42/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mdabdalrahman42/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
@@ -417,6 +419,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdabdalrahman42/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/mdabdalrahman42/leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdabdalrahman42/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
