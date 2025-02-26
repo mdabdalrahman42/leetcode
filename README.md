@@ -136,6 +136,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/mdabdalrahman42/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/mdabdalrahman42/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -157,6 +158,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/mdabdalrahman42/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
@@ -337,6 +339,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/mdabdalrahman42/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0567-permutation-in-string) |
 | [0572-subtree-of-another-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/mdabdalrahman42/leetcode/tree/master/0874-backspace-string-compare) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Hash Function
@@ -373,6 +376,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/mdabdalrahman42/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Linked List
 |  |
@@ -413,6 +417,7 @@
 | [0011-container-with-most-water](https://github.com/mdabdalrahman42/leetcode/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 ## Merge Sort
 |  |
 | ------- |
@@ -427,6 +432,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mdabdalrahman42/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
+| [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 ## Geometry
 |  |
 | ------- |
