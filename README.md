@@ -169,6 +169,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/mdabdalrahman42/leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mdabdalrahman42/leetcode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/mdabdalrahman42/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Matrix
@@ -326,6 +327,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mdabdalrahman42/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/mdabdalrahman42/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdabdalrahman42/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mdabdalrahman42/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
@@ -454,4 +456,8 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mdabdalrahman42/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mdabdalrahman42/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
