@@ -118,6 +118,7 @@
 | [0136-single-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/mdabdalrahman42/leetcode/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -330,6 +331,7 @@
 | [0070-climbing-stairs](https://github.com/mdabdalrahman42/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdabdalrahman42/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/mdabdalrahman42/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/mdabdalrahman42/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## String Matching
