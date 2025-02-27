@@ -46,6 +46,7 @@
 | [0347-top-k-frequent-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/mdabdalrahman42/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mdabdalrahman42/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -333,6 +334,7 @@
 | [0131-palindrome-partitioning](https://github.com/mdabdalrahman42/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/mdabdalrahman42/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## String Matching
 |  |
