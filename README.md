@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/mdabdalrahman42/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/mdabdalrahman42/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/mdabdalrahman42/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/mdabdalrahman42/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0056-merge-intervals) |
@@ -331,6 +332,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/mdabdalrahman42/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/mdabdalrahman42/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mdabdalrahman42/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mdabdalrahman42/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -364,6 +366,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mdabdalrahman42/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mdabdalrahman42/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/mdabdalrahman42/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
