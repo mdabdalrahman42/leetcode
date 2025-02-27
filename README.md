@@ -52,6 +52,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdabdalrahman42/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0494-target-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/mdabdalrahman42/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -318,6 +319,7 @@
 | [0113-path-sum-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/mdabdalrahman42/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/mdabdalrahman42/leetcode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Union Find
 |  |
@@ -336,6 +338,7 @@
 | [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0494-target-sum) |
 ## String Matching
 |  |
 | ------- |
