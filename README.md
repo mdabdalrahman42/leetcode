@@ -146,6 +146,7 @@
 | [0141-linked-list-cycle](https://github.com/mdabdalrahman42/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mdabdalrahman42/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/mdabdalrahman42/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -169,6 +170,7 @@
 | [0148-sort-list](https://github.com/mdabdalrahman42/leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mdabdalrahman42/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/mdabdalrahman42/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -378,6 +380,7 @@
 | [0125-valid-palindrome](https://github.com/mdabdalrahman42/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/mdabdalrahman42/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/mdabdalrahman42/leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/mdabdalrahman42/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/mdabdalrahman42/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mdabdalrahman42/leetcode/tree/master/0451-sort-characters-by-frequency) |
