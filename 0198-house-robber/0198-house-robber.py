@@ -1,8 +1,11 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        rob1, rob2 = 0, 0
-        for n in nums:
-            temp = max(n + rob1, rob2)
-            rob1 = rob2
-            rob2 = temp
-        return rob2
+        dp = {}
+        def dfs(curr_sum, i):
+            if i >= len(nums):
+                return curr_sum
+            if (curr_sum, i) in dp:
+                return dp[(curr_sum, i)]
+            dp[(curr_sum, i)] = max(dfs(curr_sum + nums[i], i + 2), dfs(curr_sum, i + 1))
+            return dp[(curr_sum, i)]
+        return dfs(0, 0)
