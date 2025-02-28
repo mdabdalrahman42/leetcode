@@ -1,7 +1,16 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
-        new_s = ""
-        for i in s:
-            if i.isalnum():
-                new_s += i.lower()
-        return new_s == new_s[-1::-1]
+        def isalphanum(i):
+            return (ord("0") <= ord(i) <= ord("9")) or (ord("A") <= ord(i) <= ord("Z")) or (ord("a") <= ord(i) <= ord("z"))
+
+        l, r = 0, len(s) - 1
+        while l <= r:
+            while l < r and not isalphanum(s[l]):
+                l += 1
+            while l < r and not isalphanum(s[r]):
+                r -= 1
+            if s[l].lower() != s[r].lower():
+                return False
+            l += 1
+            r -= 1
+        return True
