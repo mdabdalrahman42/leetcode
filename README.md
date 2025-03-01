@@ -376,6 +376,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mdabdalrahman42/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/mdabdalrahman42/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdabdalrahman42/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/mdabdalrahman42/leetcode/tree/master/0091-decode-ways) |
@@ -461,6 +462,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mdabdalrahman42/leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/mdabdalrahman42/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/mdabdalrahman42/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0874-backspace-string-compare](https://github.com/mdabdalrahman42/leetcode/tree/master/0874-backspace-string-compare) |
