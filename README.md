@@ -375,6 +375,7 @@
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -398,6 +399,7 @@
 | [0647-palindromic-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/0647-palindromic-substrings) |
 | [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/mdabdalrahman42/leetcode/tree/master/0874-backspace-string-compare) |
+| [1250-longest-common-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Hash Function
 |  |
