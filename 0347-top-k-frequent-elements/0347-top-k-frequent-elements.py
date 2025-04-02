@@ -5,15 +5,11 @@ class Solution:
             if i not in count:
                 count[i] = 0
             count[i] += 1
-        bucket = [[] for i in range(len(nums))]
-        for i in count:
-            bucket[count[i] - 1].append(i)
-        output = []
-        for i in range(len(nums) - 1, -1, -1):
-            for j in bucket[i]:
-                output.append(j)
-                k -= 1
-                if k == 0:
-                    return output
-            if k == 0:
-                return output
+        heap = [[-count[i], i] for i in count]
+        heapq.heapify(heap)
+        result = []
+        while k > 0:
+            _, i = heapq.heappop(heap)
+            k -= 1
+            result.append(i)
+        return result
