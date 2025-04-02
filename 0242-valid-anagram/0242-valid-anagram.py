@@ -7,13 +7,15 @@ class Solution(object):
         """
         if len(s) != len(t):
             return False
-        str1 = []
-        str2 = []
+        dic1 = {}
+        dic2 = {}
         for i in range(len(s)):
-            str1.append(s[i])
-            str2.append(t[i])
-        str1.sort()
-        str2.sort()
-        if str1 != str2:
+            if s[i] not in dic1:
+                dic1[s[i]] = 0
+            dic1[s[i]] += 1
+            if t[i] not in dic2:
+                dic2[t[i]] = 0
+            dic2[t[i]] += 1
+        if dic1 != dic2:
             return False
         return True
