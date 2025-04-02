@@ -3,6 +3,6 @@ class Solution:
         dic = {}
         for i in range(len(nums)):
             if target - nums[i] in dic:
-                return [i, dic[target - nums[i]]]
+                return [dic[target - nums[i]], i]
             else:
                 dic[nums[i]] = i
