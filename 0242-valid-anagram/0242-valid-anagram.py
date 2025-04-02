@@ -5,11 +5,16 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        if len(s) != len(t):
-            return False
         dic1 = {}
         dic2 = {}
-        for i in range(len(s)):
-            dic1[s[i]] = 1 + dic1.get(s[i], 0)
-            dic2[t[i]] = 1 + dic2.get(t[i], 0)
+        for i in s:
+            if i not in dic1:
+                dic1[i] = 1
+            else:
+                dic1[i] += 1
+        for i in t:
+            if i not in dic2:
+                dic2[i] = 1
+            else:
+                dic2[i] += 1
         return dic1 == dic2
