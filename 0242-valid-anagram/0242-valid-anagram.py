@@ -5,16 +5,15 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        dic1 = {}
-        dic2 = {}
-        for i in s:
-            if i not in dic1:
-                dic1[i] = 1
-            else:
-                dic1[i] += 1
-        for i in t:
-            if i not in dic2:
-                dic2[i] = 1
-            else:
-                dic2[i] += 1
-        return dic1 == dic2
+        if len(s) != len(t):
+            return False
+        str1 = []
+        str2 = []
+        for i in range(len(s)):
+            str1.append(s[i])
+            str2.append(t[i])
+        str1.sort()
+        str2.sort()
+        if str1 != str2:
+            return False
+        return True
