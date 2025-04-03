@@ -5,7 +5,9 @@ class Solution:
         for i in nums:
             if i - 1 not in nums:
                 l = 1
-                while i + l in nums:
+                i += 1
+                while i in nums:
                     l += 1
+                    i += 1
                 longest = max(longest, l)
         return longest
