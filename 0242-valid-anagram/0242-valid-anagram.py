@@ -5,13 +5,16 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
+
+        if len(s) != len(t):
+            return False
         
         from collections import Counter
 
         dic1 = Counter(s)
         dic2 = Counter(t)
 
-        if dic1 == dic2:
-            return True
+        if dic1 != dic2:
+            return False
         
-        return False
+        return True
