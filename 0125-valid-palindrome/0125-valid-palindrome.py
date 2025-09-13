@@ -4,7 +4,7 @@ class Solution:
             return (ord("0") <= ord(i) <= ord("9")) or (ord("A") <= ord(i) <= ord("Z")) or (ord("a") <= ord(i) <= ord("z"))
 
         l, r = 0, len(s) - 1
-        while l <= r:
+        while l < r:
             while l < r and not isalphanum(s[l]):
                 l += 1
             while l < r and not isalphanum(s[r]):
