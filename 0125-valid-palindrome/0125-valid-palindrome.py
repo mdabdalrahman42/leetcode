@@ -5,7 +5,7 @@ class Solution:
 
         l, r = 0, len(s) - 1
         while l < r:
-            while l < r and not isalphanum(s[l]):
+            while l < r and not s[l].isalnum():
                 l += 1
             while l < r and not isalphanum(s[r]):
                 r -= 1
