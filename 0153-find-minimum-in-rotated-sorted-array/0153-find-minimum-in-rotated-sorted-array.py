@@ -8,7 +8,7 @@ class Solution:
             if nums[l] <= nums[mid] and nums[r] >= nums[mid]:
                 output = min(output, nums[l])
                 break
-            elif nums[l] <= nums[mid]:
+            elif nums[l] <= nums[mid] and nums[r] <= nums[mid]:
                 l = mid + 1
             else:
                 r = mid - 1
