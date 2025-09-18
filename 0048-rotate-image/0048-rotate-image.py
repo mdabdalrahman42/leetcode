@@ -3,9 +3,9 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        """
+        
         l, r = 0, len(matrix) - 1
-        while l < r:
+        while l <= r:
             t, b = l, r
             for i in range(r - l):
                 temp = matrix[t][l + i]
@@ -22,4 +22,4 @@ class Solution:
                 matrix[row][col] = matrix[col][row]
                 matrix[col][row] = temp
         for i in range(len(matrix)):
-            matrix[i].reverse()
+            matrix[i].reverse()"""
