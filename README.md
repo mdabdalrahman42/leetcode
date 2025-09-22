@@ -67,6 +67,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/mdabdalrahman42/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/mdabdalrahman42/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0741-cherry-pickup](https://github.com/mdabdalrahman42/leetcode/tree/master/0741-cherry-pickup) |
 | [0792-binary-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/mdabdalrahman42/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -220,6 +221,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/mdabdalrahman42/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mdabdalrahman42/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mdabdalrahman42/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0741-cherry-pickup](https://github.com/mdabdalrahman42/leetcode/tree/master/0741-cherry-pickup) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mdabdalrahman42/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Simulation
 |  |
@@ -388,6 +390,7 @@
 | [0435-non-overlapping-intervals](https://github.com/mdabdalrahman42/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mdabdalrahman42/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/0647-palindromic-substrings) |
+| [0741-cherry-pickup](https://github.com/mdabdalrahman42/leetcode/tree/master/0741-cherry-pickup) |
 | [1250-longest-common-subsequence](https://github.com/mdabdalrahman42/leetcode/tree/master/1250-longest-common-subsequence) |
 ## String Matching
 |  |
