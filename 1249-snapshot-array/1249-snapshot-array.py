@@ -12,5 +12,5 @@ class SnapshotArray(object):
         return self.snap_id
 
     def get(self, index, snap_id):
-        i = bisect.bisect(self.A[index], [snap_id]) - 1
+        i = bisect.bisect(self.A[index], [snap_id, -float("inf")]) - 1
         return self.A[index][i][1]
