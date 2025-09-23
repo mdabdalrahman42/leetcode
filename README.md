@@ -74,6 +74,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/mdabdalrahman42/leetcode/tree/master/1028-interval-list-intersections) |
+| [1249-snapshot-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1249-snapshot-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mdabdalrahman42/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/mdabdalrahman42/leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Two Pointers
@@ -130,6 +131,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/mdabdalrahman42/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0792-binary-search](https://github.com/mdabdalrahman42/leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/mdabdalrahman42/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1249-snapshot-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1249-snapshot-array) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/mdabdalrahman42/leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Bit Manipulation
 |  |
@@ -172,6 +174,7 @@
 | [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/mdabdalrahman42/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1249-snapshot-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1249-snapshot-array) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/mdabdalrahman42/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/mdabdalrahman42/leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Sorting
@@ -553,6 +556,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/mdabdalrahman42/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1249-snapshot-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1249-snapshot-array) |
 ## Monotonic Stack
 |  |
 | ------- |
