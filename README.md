@@ -75,6 +75,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/mdabdalrahman42/leetcode/tree/master/1028-interval-list-intersections) |
 | [1249-snapshot-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1249-snapshot-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mdabdalrahman42/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/mdabdalrahman42/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/mdabdalrahman42/leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Two Pointers
@@ -202,6 +203,7 @@
 | [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/mdabdalrahman42/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mdabdalrahman42/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Math
 |  |
 | ------- |
@@ -461,6 +463,7 @@
 | [0658-find-k-closest-elements](https://github.com/mdabdalrahman42/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/mdabdalrahman42/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mdabdalrahman42/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Linked List
 |  |
 | ------- |
@@ -505,6 +508,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mdabdalrahman42/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/mdabdalrahman42/leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/mdabdalrahman42/leetcode/tree/master/0778-reorganize-string) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/mdabdalrahman42/leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/mdabdalrahman42/leetcode/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Merge Sort
 |  |
