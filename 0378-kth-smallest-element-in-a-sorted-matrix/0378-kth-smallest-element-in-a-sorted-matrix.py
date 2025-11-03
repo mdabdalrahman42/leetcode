@@ -10,10 +10,10 @@ class Solution:
             return total
 
         # Find smallest x such that count_le(x) >= k
-        while lo < hi:
+        while lo <= hi:
             mid = (lo + hi) // 2
             if count_le(mid) >= k:
-                hi = mid
+                hi = mid - 1
             else:
                 lo = mid + 1
         return lo
