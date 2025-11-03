@@ -7,4 +7,4 @@ class Solution:
                 l = mid + 1
             else:
                 r = mid
-        return arr[l:l + k] 
+        return arr[l:l + k]
