@@ -20,7 +20,7 @@ class Solution:
             fast = nums[fast]
         return slow
         """
-        l, h = 1, len(nums) - 1
+        l, h = 0, len(nums) - 1
         while l <= h:
             mid = l + (h - l) // 2
             count = sum([1 for n in nums if n <= mid])
