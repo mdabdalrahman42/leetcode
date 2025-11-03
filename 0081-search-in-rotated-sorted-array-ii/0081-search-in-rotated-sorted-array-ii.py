@@ -9,7 +9,7 @@ class Solution:
                 l += 1
             elif nums[mid] == nums[r]:
                 r -= 1
-            elif nums[l] < nums[mid]:
+            elif nums[l] <= nums[mid]:
                 if target < nums[l] or target > nums[mid]:
                     l = mid + 1
                 else:
