@@ -12,8 +12,8 @@ class Solution:
         # Find smallest x such that count_le(x) >= k
         while lo <= hi:
             mid = (lo + hi) // 2
-            if count_le(mid) >= k:
-                hi = mid - 1
-            else:
+            if count_le(mid) < k:
                 lo = mid + 1
+            else:
+                hi = mid - 1
         return lo
