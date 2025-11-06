@@ -1,12 +1,24 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        curr_sum = 0
-        min_len = float("inf")
-        l = 0
-        for r in range(len(nums)):
-            curr_sum += nums[r]
-            while curr_sum >= target:
-                min_len = min(min_len, r - l + 1)
-                curr_sum -= nums[l]
-                l += 1
-        return min_len if min_len != float("inf") else 0
+        n = len(nums)
+        P = [0] * (n + 1)
+        for i in range(n):
+            P[i + 1] = P[i] + nums[i]
+
+        res = n + 1
+        for i in range(n):
+            l, r = i, n - 1          # search mids in [i, n-1]
+            best = n                  # store best mid; n means "not found"
+            while l <= r:
+                mid = (l + r) // 2
+                curSum = P[mid + 1] - P[i]
+                if curSum >= target:
+                    best = mid        # potential answer; try to shrink
+                    r = mid - 1       # <-- move left (bisect_left behavior)
+                else:
+                    l = mid + 1
+
+            if best != n:
+                res = min(res, best - i + 1)
+
+        return 0 if res == n + 1 else res
